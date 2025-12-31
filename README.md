@@ -109,9 +109,9 @@ Intensity: 2855 → Reflective Surface
 │   ├── train_model.py
 │   └── surface_dataset.csv
 ├── docs/
-│   ├── results.docx
-│   ├── architecture.pdf
-│   └── wokwi_output.docx
+│   ├── results.png
+│   ├── architecture.png
+│   └── wokwi_output.png
 └── README.md
 ```
 

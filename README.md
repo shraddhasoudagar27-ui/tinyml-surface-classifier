@@ -111,7 +111,10 @@ Intensity: 2855 → Reflective Surface
 ├── docs/
 │   ├── results.png
 │   ├── architecture.png
-│   └── wokwi_output.png
+│   ├── wokwi_output.png
+│   └── wokwi/
+│       └── diagram.json
 └── README.md
+
 ```
 

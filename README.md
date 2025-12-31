@@ -61,7 +61,7 @@ Intensity: 2855 → Reflective Surface
 
 ---
 
-## 🔧 Hardware Setup (Simulation)
+## Hardware Setup (Simulation)
 
 | Component     | Pin     |
 | ------------- | ------- |
@@ -102,14 +102,16 @@ Intensity: 2855 → Reflective Surface
 ## Repository Structure
 
 ```
-📁 Smart-Optical-Analyzer
- ├── src
- │   └── esp32_classifier.ino
- ├── ml
- │   ├── train_model.py
- │   └── surface_dataset.csv
- ├── docs
- │   └── results_plots.png
- └── README.md (this file)
+📁 tinyml-surface-classifier/
+├── src/
+│   └── esp32_classifier.ino
+├── ml/
+│   ├── train_model.py
+│   └── surface_dataset.csv
+├── docs/
+│   ├── results_plot.png
+│   ├── architecture_diagram.png
+│   └── wokwi_output.png
+└── README.md
 ```
 

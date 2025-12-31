@@ -110,7 +110,7 @@ Intensity: 2855 → Reflective Surface
 │   └── surface_dataset.csv
 ├── docs/
 │   ├── results_plot.png
-│   ├── architecture_diagram.png
+│   ├── architecture.png
 │   └── wokwi_output.png
 └── README.md
 ```
